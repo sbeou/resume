@@ -23,8 +23,7 @@ resume_contact_address:         "Pituba, Salvador - Ba, Brazil"
 resume_header_contact_info:     "Pituba, Salvador - Ba, Brazil • 71 9 8511-9978 • design@walf.com.br"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a grafic and web designer / front-end, my approach embraces diversify while using the latest multimedia techniques for a unique result.</p>
-<p>Born in France, I'm living in Brasil since 2013, speak french, fluent Portuguese and intermediate English</p>"
+resume_header_intro: "<p>As a grafic and web designer / front-end, my approach embraces diversify while using the latest multimedia techniques for a unique result.</p><p>Born in France, I'm living in Brasil since 2013, speak french, fluent Portuguese and intermediate English</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
