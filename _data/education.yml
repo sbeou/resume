@@ -1,13 +1,28 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bootcamp Online - Desenvolvedor Mobile Apps
+  uni: IGTI Brazil
+  year: 2021
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Android with Java
+    - award: React Native
+    - award: Flutter
+    - award: Dart
+  summary:
+  
+- degree: ESIC Paris, France
+  uni: Web developer
+  year: 2007
+  award: Front-end development with HTML, CSS and JavaScript
+  summary: 
+  
+  - degree: AFPA Cannes, France
+  uni: Grafic designer
+  year: 2007
+  award: Grafic design with Photoshop, Illustrator and InDesign
+  summary: 
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: LEP Blaise Pascal Marseille, France
+  uni: A level pro photo
+  year: 2000
+  award: Photography in studio, Reportage photography and photographic Laboratory
+  summary:
