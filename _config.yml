@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sebastien Guilet"
-resume_title:                   "Grafik and Web Desing / Front-End"
+resume_title:                   "Grafik and Web Desinger / Front-End"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "design@walf.com.br"
