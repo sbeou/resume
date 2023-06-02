@@ -1,26 +1,32 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: french.dev.br
+  role: Designer and font-end developer
+  duration: 2023
+  url: "https://french.dev.br/"
+  description: Personal Portfolio build in React and Redux.
+  
 - project: cafecominformacao.com.br
-  role: Design and font-end developer
+  role: Designer and font-end developer
   duration: 2022
   url: "https://cafecominformacao.com.br/"
   description: Economic responsive wordpress blog.
 
 - project: loja.fjs.org.br
-  role: Design and font-end developer
+  role: Designer and font-end developer
   duration: 2021
   url: "https://loja.fjs.org.br"
   description: Responsive wordpress e-commerce for charity resource mobilisation.
   
 - project: camaraargentinabahia.com
-  role: Design and font-end developer
+  role: Designer and font-end developer
   duration: 2020
   url: "https://camaraargentinabahia.com"
   description: Institutional responsive wordpress website for a chamber of commerce.
 
 - project: taurieng.com.br
-  role: Design and font-end developer
+  role: Designer and font-end developer
   duration: 2018
   url: "https://taurieng.com.br/"
   description: Responsive wordpress website for a engineering company.
