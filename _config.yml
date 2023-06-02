@@ -11,19 +11,19 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Sebastien Guilet"
-resume_title:                   "Graphic and Web Desinger / Front-End"
+resume_title:                   "Designer and Front-end Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "design@walf.com.br"
+resume_contact_email:           "sbeou13@gmail.comr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "71 9 8511-9978"
+resume_contact_telephone:       "+55 71 9 8511-9978"
 resume_contact_address:         "Pituba, Salvador - Ba, Brazil"
 
-resume_header_contact_info:     "Pituba, Salvador - Ba, Brazil • 71 9 8511-9978 • design@walf.com.br"
+resume_header_contact_info:     "Pituba, Salvador - Ba, Brazil • +55 71 9 8511-9978 • sbeou13@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>As a graphic and web designer / front-end, my approach embraces diversity while using the latest multimedia techniques for a unique result.</p><p>Born in France, l have been living in Brazil since 2013. I am mother-tongue French, fluent in Portuguese and intermediate level English</p>"
+resume_header_intro: "<p>UX design and front-end developer, my approach embraces diversity while using the latest multimedia techniques for a unique result.</p><p>I draw my inspiration from the latest trends while bringing my personal touch.</P><p>I create websites from briefing to publication.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -51,7 +51,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/sebastienguilet/"
   resume_instagram_url:         "https://www.instagram.com/webdesignalafrancaise/"
-  resume_website_url:           "https://webdesignalafrancaise.com.br"
+  resume_website_url:           "https://french.dev.br"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
